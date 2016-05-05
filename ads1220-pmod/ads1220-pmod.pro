@@ -1,4 +1,4 @@
-update=4/24/2016 8:20:42 PM
+update=5/4/2016 6:39:36 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=TI_ADC
+LibName31=pmod
+LibName32=ads1220_pmod
